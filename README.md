@@ -10,8 +10,8 @@ This is a place where I'll post code I've studied and some code I'm currently wo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gustavobotti&theme=vision-friendly-dark&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobotti&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- ### ✍️Random Dev Quote -->
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<!-- ### ✍️Random Dev Quote 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gustavobotti&icon=0&color=2)](https://visitcount.itsvg.in)
