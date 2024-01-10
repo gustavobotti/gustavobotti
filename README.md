@@ -2,7 +2,7 @@
 
 This is a place where I'll post code I've studied and some code I'm currently working on.
 
-Full-stack developer with a generalist skill set. Embracing a curious mindset, I'm passionate about learning a bit of everything in the world of technology. Committed to continuous growth and eager to contribute to innovative projects. 🚀 
+Full-stack developer with a versatile and generalist skill set. Embracing a curious mind, I'm passionate about learning a bit of everything in the world of technology. Committed to continuous growth and eager to contribute to interesting projects. 🚀 
 
 
 # 💻Tech Stack
