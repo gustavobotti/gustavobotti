@@ -4,8 +4,8 @@ This is a place where I'll post code I've studied and some code I'm currently wo
 
 Full-stack developer with a versatile skill set, I'm passionate about learning a bit of everything in the world of technology. 
 
-I'm currently working as a PHP developer, specializing in frameworks such as Laravel/Yii2 and exploring JavaScript for integrating with APIs related to geolocation, maps, and routes. 
-PostgreSQL is my database of choice at the moment, but I'm also familiar with MySQL.
+I'm currently working as a PHP developer, specializing in frameworks such as Laravel/Yii2 and JavaScript for integrating with APIs related to geolocation, maps, and routes. 
+I work primarily with PostgreSQL and Redis, but I'm also experienced with MySQL.
 
 You can also find me on [GitLab](https://gitlab.com/gbotti).
 
