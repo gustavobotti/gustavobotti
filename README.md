@@ -8,7 +8,8 @@ I work primarily with PHP (Laravel, Yii2) and JavaScript/TypeScript, building an
 
 I've helped private clients improve system performance and operational efficiency, and have also worked as a main developer on SaaS platforms serving 100k+ daily users.
 
-I have experience with Docker and AWS, along with observability tools like Datadog, and I also work with technologies such as React, Vue, Node, and Elasticsearch.
+I have experience with Docker and AWS, along with observability tools like Datadog, and also with technologies such as React, Vue, Node, and Elasticsearch.
+I'm comfortable working across the full stack when needed.
 
 My main database stack includes PostgreSQL and Redis, but I’ve worked with other DBMS as well.
 
