@@ -1,12 +1,20 @@
 ### Hi there 👋
 
-This is a place where I'll post code I've studied and some code I'm currently working on.
+This is a place where I share code I've studied, things I'm currently working on, and experiments where I explore new ideas and technologies.
 
-Full-stack developer with a versatile skill set, I'm passionate about learning a bit of everything in the world of technology. 
+I'm a full-stack developer focused on building reliable backends and scalable web applications.
 
-I'm currently working as a PHP developer, specializing in frameworks such as Laravel/Yii2 and JavaScript for integrating with APIs related to geolocation, maps, and routes. 
+I work primarily with PHP (Laravel, Yii2) and JavaScript/TypeScript, building and integrating APIs for business systems, with experience in geolocation, maps, and routing solutions.
 
-I work primarily with PostgreSQL and Redis, but I'm also experienced with MySQL.
+I've helped private clients improve system performance and operational efficiency, and have also worked as a main developer on SaaS platforms serving 100k+ daily users.
+
+I have experience with Docker and AWS, along with observability tools like Datadog, and I also work with technologies such as React, Vue, Node, and Elasticsearch.
+
+My main database stack includes PostgreSQL and Redis, but I’ve worked with other DBMS as well.
+
+Currently, I'm focused on performance optimization, system integrations, and maintaining production environments.
+
+
 
 You can also find me on [GitLab](https://gitlab.com/gbotti).
 
